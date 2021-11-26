@@ -1,0 +1,15 @@
+.myself {
+    height: 200px;
+    background: lightseagreen;
+  }
+
+  .jumbotron {
+    background-color: brown;
+  }
+
+  .footer{
+    background-color: violet;
+    height: 50px !important;
+    padding-top: 10px;
+    margin-top: 40px;
+  }
